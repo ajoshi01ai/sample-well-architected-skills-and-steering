@@ -71,7 +71,15 @@ install.ps1                         One-command setup (Windows PowerShell)
 
 ## 🚀 Quick start
 
-### Install script (recommended)
+### One-liner (no clone needed)
+
+```bash
+curl -sL https://raw.githubusercontent.com/aws-samples/sample-well-architected-skills-and-steering/main/bootstrap.sh | bash -s -- --tool claude-code ~/my-project
+```
+
+This downloads the repo to a temp directory, runs the installer, and cleans up. All `install.sh` flags work (`--tool`, `--symlink`, `--global`, `--force`).
+
+### Install script (from local clone)
 
 ```bash
 # Install for a specific tool
