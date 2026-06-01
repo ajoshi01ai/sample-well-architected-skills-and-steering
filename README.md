@@ -646,6 +646,19 @@ Cost breakdown assumes ~1K input tokens and ~2K output tokens per generation cal
 
 ---
 
+## 📈 Effectiveness
+
+These skills have been evaluated using a rigorous statistical methodology:
+
+- **Paired design** — same prompts, same model, with and without skill context
+- **8 of 9 skills** show statistically significant improvement (p < 0.05)
+- **Effect sizes range from medium to very large** (Cohen's d)
+- Skills never produce worse output than baseline — they improve or tie
+
+The evaluation framework is included in [`evals/`](./evals) so you can reproduce results on your own models and prompts.
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding skills, modifying steering files, or adding new tool adapters.
