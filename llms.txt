@@ -42,7 +42,6 @@ curl -sL https://raw.githubusercontent.com/aws-samples/sample-well-architected-s
 
 ### Reference material:
 
-- `assets/v13/` — 307 individual WA Framework best practices by ID (e.g., SEC05-BP01, REL13-BP03)
 - `assets/well-architected-best-practices.md` — Per-pillar best practices with investigation checklists
 - `assets/cloudwatch-metrics-reference.md` — CloudWatch metric thresholds by service
 - `assets/incident-investigation-patterns.md` — Triage, RCA, mitigation playbooks

@@ -44,7 +44,6 @@ skills/                             Step-by-step playbooks (tool-agnostic)
   architecture-decision-record/       WA-aligned ADRs with pillar impact
 
 assets/                             Shared reference material
-  v13/                                307 WA Framework best practices (by ID)
   well-architected-best-practices.md  Per-pillar investigation checklists
   cloudwatch-metrics-reference.md     Metric thresholds + composite alarm patterns
   incident-investigation-patterns.md  Triage, RCA, mitigation playbooks
@@ -472,7 +471,7 @@ graph LR
 | **Steering** (`steering/*.md`) | Always-on context loaded into every Kiro conversation. Other tools use equivalent mechanisms via adapters. |
 | **Powers** (`powers/*/`) | Bundled, installable units for Kiro. Package steering + MCP tools + hooks into a single activatable power. |
 | **Adapters** (`adapters/`) | Translate steering into each tool's native config format and wire up skills as commands or rules. |
-| **Assets** (`assets/`) | Shared reference material (v13 best practices, metrics, patterns) bundled with skills for tools that support it. |
+| **Assets** (`assets/`) | Shared reference material (metrics, patterns, best practices) bundled with skills for tools that support it. |
 
 ### Tool compatibility matrix
 
