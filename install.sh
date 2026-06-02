@@ -19,7 +19,7 @@ Arguments:
 
 Options:
   --tool TOOL   Install only for a specific tool. Can be repeated.
-                Valid: kiro, claude-code, cursor, codex, windsurf, github-copilot, cline, gemini-cli, antigravity, junie, amp, openclaw, devops-agent, auto, all
+                Valid: kiro, kiro-cli, claude-code, cursor, codex, windsurf, github-copilot, cline, gemini-cli, antigravity, junie, amp, openclaw, devops-agent, auto, all
   --uninstall   Remove previously installed WA files from the target directory
   --check-update  Check if a newer version is available on GitHub
   --symlink     Use symlinks instead of copies (auto-updates when this repo changes)
@@ -465,7 +465,7 @@ uninstall_tool() {
   fi
 
   case "$tool" in
-    kiro)
+    kiro|kiro-cli)
       rm -f "$base/.kiro/steering/well-architected.md"
       for skill_dir in "$SCRIPT_DIR/skills"/*/; do
         local skill_name
@@ -648,7 +648,7 @@ fi
 
 for tool in "${TOOLS[@]}"; do
   case "$tool" in
-    kiro)           install_kiro ;;
+    kiro|kiro-cli)  install_kiro ;;
     claude-code)    install_claude_code ;;
     cursor)         install_cursor ;;
     codex)          install_codex ;;
@@ -678,7 +678,7 @@ for tool in "${TOOLS[@]}"; do
       ;;
     *)
       echo "Unknown tool: $tool"
-      echo "Valid options: kiro, claude-code, cursor, codex, windsurf, github-copilot, cline, gemini-cli, antigravity, junie, amp, openclaw, devops-agent, auto, all"
+      echo "Valid options: kiro, kiro-cli, claude-code, cursor, codex, windsurf, github-copilot, cline, gemini-cli, antigravity, junie, amp, openclaw, devops-agent, auto, all"
       exit 1
       ;;
   esac
