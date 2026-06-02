@@ -152,7 +152,14 @@ install_claude_code() {
     cmd_name="$(basename "$cmd_file")"
     copy_or_link "$cmd_file" "$base/.claude/commands/$cmd_name"
   done
-  echo "  Done. Use /wa-review, /security-assessment, etc. as slash commands."
+
+  for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+    local skill_name
+    skill_name="$(basename "$skill_dir")"
+    [[ "$skill_name" == "_shared" ]] && continue
+    copy_or_link "$skill_dir/SKILL.md" "$base/.claude/skills/$skill_name/SKILL.md"
+  done
+  echo "  Done. Skills installed to .claude/skills/; slash commands also available."
   echo ""
 }
 
@@ -460,27 +467,53 @@ uninstall_tool() {
   case "$tool" in
     kiro)
       rm -f "$base/.kiro/steering/well-architected.md"
-      rm -rf "$base/.kiro/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.kiro/skills/$skill_name"
+      done
       echo "  Removed: Kiro steering and skills"
       ;;
     claude-code)
       rm -f "$base/CLAUDE.md"
       rm -rf "$base/.claude/commands"
-      echo "  Removed: Claude Code CLAUDE.md and commands"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.claude/skills/$skill_name"
+      done
+      echo "  Removed: Claude Code CLAUDE.md, commands, and skills"
       ;;
     cursor)
       rm -f "$base/.cursor/rules/well-architected.md" "$base/.cursor/rules/wa-review.md"
-      rm -rf "$base/.cursor/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.cursor/skills/$skill_name"
+      done
       echo "  Removed: Cursor rules and skills"
       ;;
     codex)
       rm -f "$base/AGENTS.md"
-      rm -rf "$base/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/skills/$skill_name"
+      done
       echo "  Removed: Codex AGENTS.md and skills"
       ;;
     windsurf)
       rm -f "$base/.windsurfrules"
-      rm -rf "$base/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/skills/$skill_name"
+      done
       echo "  Removed: Windsurf .windsurfrules and skills"
       ;;
     github-copilot)
@@ -489,31 +522,62 @@ uninstall_tool() {
       ;;
     cline)
       rm -f "$base/.clinerules"
-      rm -rf "$base/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/skills/$skill_name"
+      done
       echo "  Removed: Cline .clinerules and skills"
       ;;
     gemini-cli)
       rm -f "$base/GEMINI.md"
-      rm -rf "$base/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/skills/$skill_name"
+      done
       echo "  Removed: Gemini CLI GEMINI.md and skills"
       ;;
     antigravity)
-      rm -rf "$base/.agents/rules" "$base/.agents/skills"
+      rm -f "$base/.agents/rules/well-architected.md" "$base/.agents/rules/wa-review.md"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.agents/skills/$skill_name"
+      done
       echo "  Removed: Antigravity rules and skills"
       ;;
     junie)
       rm -f "$base/.junie/guidelines/well-architected.md"
-      rm -rf "$base/.junie/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.junie/skills/$skill_name"
+      done
       echo "  Removed: Junie guidelines and skills"
       ;;
     amp)
       rm -f "$base/AGENTS.md"
-      rm -rf "$base/.agents/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.agents/skills/$skill_name"
+      done
       echo "  Removed: Amp AGENTS.md and skills"
       ;;
     openclaw)
       rm -f "$base/AGENTS.md"
-      rm -rf "$base/.agents/skills"
+      for skill_dir in "$SCRIPT_DIR/skills"/*/; do
+        local skill_name
+        skill_name="$(basename "$skill_dir")"
+        [[ "$skill_name" == "_shared" ]] && continue
+        rm -rf "$base/.agents/skills/$skill_name"
+      done
       echo "  Removed: OpenClaw AGENTS.md and skills"
       ;;
     devops-agent)
