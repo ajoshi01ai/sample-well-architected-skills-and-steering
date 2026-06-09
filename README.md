@@ -631,10 +631,11 @@ All skills are evaluated using an automated LLM-as-judge framework with paired c
 | `reliability-improvement-plan` | 95% | **100%** | +5% |
 | `security-assessment` | 94% | **100%** | +6% |
 | `sustainability-optimization` | 85% | **100%** | +15% |
-| **Average** | **88%** | **100%** | **+12%** |
+| `wa-builder` | 61% | **94%** | +33% |
+| **Average** | **86%** | **99%** | **+14%** |
 
-- **All 9 skills** score 100% on behavioral assertions with skill context loaded
-- **Average +12% improvement** over the same model without skill guidance
+- **9 of 10 skills** score 100% on behavioral assertions; `wa-builder` scores 94%
+- **Average +14% improvement** over the same model without skill guidance
 - Skills never produce worse output than baseline — they improve or match
 
 The evaluation framework is included in [`evals/`](./evals) so you can reproduce results on your own models and prompts. Use `--parallel` for ~3x faster runs.
