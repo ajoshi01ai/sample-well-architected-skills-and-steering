@@ -29,6 +29,11 @@ Open an issue on GitHub describing the problem, including which steering file or
 2. Ensure guidance is actionable and specific to the AWS Well-Architected Framework.
 3. Open a pull request explaining what changed and why.
 
+### Design Principles
+
+- **Review and guidance, not code mutation.** Skills should help users *understand* their workload's alignment with Well-Architected best practices — not prescriptively rewrite their code. The output of a skill is findings, plans, controls, or visual artifacts; it is never a PR-ready diff applied to the user's codebase. This keeps the user in control of their implementation decisions and avoids the risk profile of model-generated code changes.
+- **Aligned, not compliant.** Skills help workloads align with Well-Architected best practices. They do not make a workload "compliant" with any program. Avoid language that implies a compliance guarantee — use "aligned with best practices," "adherent to WA guidance," or similar phrasing.
+
 ### Style Guidelines
 
 - Use clear, imperative language in skills (e.g., "Evaluate whether..." not "You might want to evaluate...").
