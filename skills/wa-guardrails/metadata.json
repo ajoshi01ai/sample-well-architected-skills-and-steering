@@ -22,7 +22,7 @@
   ],
   "not_for": [
     "one-time gap assessment (use wa-review or a pillar assessment instead)",
-    "fixing a specific existing finding in code (use wa-remediation instead)",
+    "fixing a specific existing finding in code (remediate the code directly instead)",
     "learning Well-Architected or producing diagrams (use wa-builder instead)",
     "documenting a design decision (use architecture-decision-record instead)"
   ],
