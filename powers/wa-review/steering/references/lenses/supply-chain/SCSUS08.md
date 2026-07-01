@@ -1,6 +1,6 @@
-# SCSUS08
+# SCSUS08 — Hardware and services
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

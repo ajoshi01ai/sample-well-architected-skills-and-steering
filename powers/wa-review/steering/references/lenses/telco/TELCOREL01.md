@@ -1,6 +1,6 @@
-# TELCOREL01
+# TELCOREL01 — Foundations
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

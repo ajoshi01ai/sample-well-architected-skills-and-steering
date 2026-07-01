@@ -1,6 +1,6 @@
-# ADVSEC02
+# ADVSEC02 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

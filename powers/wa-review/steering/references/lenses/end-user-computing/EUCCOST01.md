@@ -1,6 +1,6 @@
-# EUCCOST01
+# EUCCOST01 — Practice Cloud Financial Management
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

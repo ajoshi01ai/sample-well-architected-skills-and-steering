@@ -1,6 +1,6 @@
-# TELCOSUS04
+# TELCOSUS04 — Climate change risk
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

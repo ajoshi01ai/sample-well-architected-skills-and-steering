@@ -1,6 +1,6 @@
-# TELCOPERF03
+# TELCOPERF03 — Networking and content delivery
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

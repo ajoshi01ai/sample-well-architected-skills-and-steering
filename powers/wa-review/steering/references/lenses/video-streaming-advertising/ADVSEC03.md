@@ -1,6 +1,6 @@
-# ADVSEC03
+# ADVSEC03 — Infrastructure protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

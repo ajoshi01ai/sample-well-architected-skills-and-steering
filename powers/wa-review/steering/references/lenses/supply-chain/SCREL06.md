@@ -1,6 +1,6 @@
-# SCREL06
+# SCREL06 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

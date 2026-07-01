@@ -1,6 +1,6 @@
-# SCSUS03
+# SCSUS03 — Alignment to demand
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

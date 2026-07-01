@@ -1,6 +1,6 @@
-# SCPERF04
+# SCPERF04 — Network architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 1
 
 ---

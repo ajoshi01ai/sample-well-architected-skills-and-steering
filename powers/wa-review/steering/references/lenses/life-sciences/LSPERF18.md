@@ -1,6 +1,6 @@
-# LSPERF18
+# LSPERF18 — Process and culture
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

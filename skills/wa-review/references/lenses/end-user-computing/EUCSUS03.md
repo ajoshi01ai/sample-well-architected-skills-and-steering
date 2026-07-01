@@ -1,6 +1,6 @@
-# EUCSUS03
+# EUCSUS03 — Alignment to demand
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

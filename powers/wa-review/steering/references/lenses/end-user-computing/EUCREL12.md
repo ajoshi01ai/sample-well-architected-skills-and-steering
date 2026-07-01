@@ -1,6 +1,6 @@
-# EUCREL12
+# EUCREL12 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

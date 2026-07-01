@@ -1,6 +1,6 @@
-# ADVSUS10
+# ADVSUS10 — Moderation and brand safety
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

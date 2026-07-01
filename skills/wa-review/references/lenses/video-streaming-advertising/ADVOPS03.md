@@ -1,6 +1,6 @@
-# ADVOPS03
+# ADVOPS03 — Operate
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 2
 
 ---

@@ -1,6 +1,6 @@
-# SCSEC14
+# SCSEC14 — Application security
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

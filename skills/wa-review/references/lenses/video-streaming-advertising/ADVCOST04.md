@@ -1,6 +1,6 @@
-# ADVCOST04
+# ADVCOST04 — Database optimization
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 3
 
 ---

@@ -1,6 +1,6 @@
-# SCSUS01
+# SCSUS01 — Region selection
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

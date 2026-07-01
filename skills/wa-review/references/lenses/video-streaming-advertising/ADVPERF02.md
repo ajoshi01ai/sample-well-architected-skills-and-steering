@@ -1,6 +1,6 @@
-# ADVPERF02
+# ADVPERF02 — Compute and hardware
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 5
 
 ---

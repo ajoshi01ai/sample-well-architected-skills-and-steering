@@ -1,6 +1,6 @@
-# EUCCOST05
+# EUCCOST05 — Cost effective resources
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 4
 
 ---

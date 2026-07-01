@@ -1,6 +1,6 @@
-# LSREL06
+# LSREL06 — Workload architecture
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

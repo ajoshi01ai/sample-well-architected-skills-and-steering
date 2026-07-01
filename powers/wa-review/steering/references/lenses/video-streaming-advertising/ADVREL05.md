@@ -1,6 +1,6 @@
-# ADVREL05
+# ADVREL05 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 2
 
 ---

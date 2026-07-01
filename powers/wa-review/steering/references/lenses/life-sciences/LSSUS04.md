@@ -1,6 +1,6 @@
-# LSSUS04
+# LSSUS04 — Sustainability in manufacturing environments
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

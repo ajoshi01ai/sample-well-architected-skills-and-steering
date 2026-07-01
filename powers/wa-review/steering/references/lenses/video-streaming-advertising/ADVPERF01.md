@@ -1,6 +1,6 @@
-# ADVPERF01
+# ADVPERF01 — Architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 5
 
 ---

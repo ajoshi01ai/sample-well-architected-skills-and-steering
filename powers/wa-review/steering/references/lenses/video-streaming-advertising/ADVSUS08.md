@@ -1,6 +1,6 @@
-# ADVSUS08
+# ADVSUS08 — Privacy-enhanced collaboration
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

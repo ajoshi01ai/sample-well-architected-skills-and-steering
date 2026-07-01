@@ -1,6 +1,6 @@
-# SCCOST01
+# SCCOST01 — Align cost with value and scalability
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

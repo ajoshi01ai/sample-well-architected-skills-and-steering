@@ -1,6 +1,6 @@
-# ADVREL02
+# ADVREL02 — Latency sensitive advertising
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

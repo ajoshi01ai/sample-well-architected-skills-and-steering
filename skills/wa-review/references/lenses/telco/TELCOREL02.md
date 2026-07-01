@@ -1,6 +1,6 @@
-# TELCOREL02
+# TELCOREL02 — Workload architecture
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 5
 
 ---

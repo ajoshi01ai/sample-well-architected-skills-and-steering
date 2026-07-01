@@ -1,6 +1,6 @@
-# ADVREL06
+# ADVREL06 — Architecture capacity
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

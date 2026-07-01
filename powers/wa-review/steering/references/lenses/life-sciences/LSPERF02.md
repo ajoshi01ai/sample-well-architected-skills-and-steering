@@ -1,6 +1,6 @@
-# LSPERF02
+# LSPERF02 — Architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

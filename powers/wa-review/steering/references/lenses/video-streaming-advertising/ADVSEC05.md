@@ -1,6 +1,6 @@
-# ADVSEC05
+# ADVSEC05 — Fraud detection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

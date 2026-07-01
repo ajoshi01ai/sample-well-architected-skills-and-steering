@@ -1,6 +1,6 @@
-# EUCOPS04
+# EUCOPS04 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# SCOPS08
+# SCOPS08 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

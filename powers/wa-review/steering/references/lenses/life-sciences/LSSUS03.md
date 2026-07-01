@@ -1,6 +1,6 @@
-# LSSUS03
+# LSSUS03 — Data management efficiency in data analytics and data lifecycle
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

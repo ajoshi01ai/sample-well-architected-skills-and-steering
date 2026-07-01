@@ -1,6 +1,6 @@
-# EUCSEC09
+# EUCSEC09 — Detection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

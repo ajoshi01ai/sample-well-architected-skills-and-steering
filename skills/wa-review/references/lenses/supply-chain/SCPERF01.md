@@ -1,6 +1,6 @@
-# SCPERF01
+# SCPERF01 — Architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 2
 
 ---

@@ -1,6 +1,6 @@
-# SCSEC10
+# SCSEC10 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

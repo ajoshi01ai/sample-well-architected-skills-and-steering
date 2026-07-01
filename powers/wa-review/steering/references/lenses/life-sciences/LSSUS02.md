@@ -1,6 +1,6 @@
-# LSSUS02
+# LSSUS02 — Sustainability metric tracking and reporting
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

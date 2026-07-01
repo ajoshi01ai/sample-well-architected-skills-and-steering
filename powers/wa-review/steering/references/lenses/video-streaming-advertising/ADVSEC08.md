@@ -1,6 +1,6 @@
-# ADVSEC08
+# ADVSEC08 — Brand safety
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 2
 
 ---

@@ -1,6 +1,6 @@
-# SCCOST03
+# SCCOST03 — Automate and streamline operations
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 3
 
 ---

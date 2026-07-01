@@ -1,6 +1,6 @@
-# ADVREL09
+# ADVREL09 — Ad measurement and verification
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 2
 
 ---

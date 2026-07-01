@@ -1,6 +1,6 @@
-# TELCOSUS03
+# TELCOSUS03 — Investment protection
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

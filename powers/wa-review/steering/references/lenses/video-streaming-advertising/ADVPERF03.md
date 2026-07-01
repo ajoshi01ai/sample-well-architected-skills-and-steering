@@ -1,6 +1,6 @@
-# ADVPERF03
+# ADVPERF03 — Data storage selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

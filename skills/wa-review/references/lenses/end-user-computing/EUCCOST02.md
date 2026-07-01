@@ -1,6 +1,6 @@
-# EUCCOST02
+# EUCCOST02 — Expenditure and usage awareness
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

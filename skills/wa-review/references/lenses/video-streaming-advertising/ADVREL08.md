@@ -1,6 +1,6 @@
-# ADVREL08
+# ADVREL08 — Privacy
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

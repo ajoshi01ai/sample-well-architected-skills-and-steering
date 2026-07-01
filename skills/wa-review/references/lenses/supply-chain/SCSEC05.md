@@ -1,6 +1,6 @@
-# SCSEC05
+# SCSEC05 — Detection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

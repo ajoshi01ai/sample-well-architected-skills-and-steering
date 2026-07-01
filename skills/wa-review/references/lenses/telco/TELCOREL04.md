@@ -1,6 +1,6 @@
-# TELCOREL04
+# TELCOREL04 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

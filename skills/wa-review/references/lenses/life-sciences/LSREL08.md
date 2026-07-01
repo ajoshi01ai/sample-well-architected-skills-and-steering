@@ -1,6 +1,6 @@
-# LSREL08
+# LSREL08 — Workload architecture
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

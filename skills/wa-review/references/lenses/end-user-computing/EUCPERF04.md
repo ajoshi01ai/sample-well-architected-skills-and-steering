@@ -1,6 +1,6 @@
-# EUCPERF04
+# EUCPERF04 — Compute and hardware
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

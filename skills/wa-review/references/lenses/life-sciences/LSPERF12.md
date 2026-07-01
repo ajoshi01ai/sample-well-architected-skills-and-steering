@@ -1,6 +1,6 @@
-# LSPERF12
+# LSPERF12 — Network and content delivery
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

@@ -1,6 +1,6 @@
-# SCSUS06
+# SCSUS06 — Data management
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

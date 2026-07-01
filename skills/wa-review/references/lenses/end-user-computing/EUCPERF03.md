@@ -1,6 +1,6 @@
-# EUCPERF03
+# EUCPERF03 — Architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 1
 
 ---

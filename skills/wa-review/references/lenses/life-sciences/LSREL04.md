@@ -1,6 +1,6 @@
-# LSREL04
+# LSREL04 — Foundations
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

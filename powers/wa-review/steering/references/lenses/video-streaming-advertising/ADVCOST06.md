@@ -1,6 +1,6 @@
-# ADVCOST06
+# ADVCOST06 — Data transfer and processing
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

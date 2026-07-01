@@ -1,6 +1,6 @@
-# TELCOSUS01
+# TELCOSUS01 — Energy optimization
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

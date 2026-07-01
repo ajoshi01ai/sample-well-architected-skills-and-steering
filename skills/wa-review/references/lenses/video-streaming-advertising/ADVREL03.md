@@ -1,6 +1,6 @@
-# ADVREL03
+# ADVREL03 — Design for single- and Multi-Region deployments
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 4
 
 ---

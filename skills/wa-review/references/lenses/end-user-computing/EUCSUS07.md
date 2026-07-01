@@ -1,6 +1,6 @@
-# EUCSUS07
+# EUCSUS07 — Data management
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

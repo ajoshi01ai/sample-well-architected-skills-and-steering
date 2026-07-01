@@ -1,6 +1,6 @@
-# LSSEC01
+# LSSEC01 — Identity and access management
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 3
 
 ---

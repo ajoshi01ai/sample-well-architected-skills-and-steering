@@ -1,6 +1,6 @@
-# TELCOCOST06
+# TELCOCOST06 — Manage demand and supply resources
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

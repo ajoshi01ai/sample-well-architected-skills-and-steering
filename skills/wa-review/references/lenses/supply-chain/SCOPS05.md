@@ -1,6 +1,6 @@
-# SCOPS05
+# SCOPS05 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

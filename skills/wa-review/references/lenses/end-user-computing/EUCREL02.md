@@ -1,6 +1,6 @@
-# EUCREL02
+# EUCREL02 — Workload architecture
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

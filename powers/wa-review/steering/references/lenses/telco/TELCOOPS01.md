@@ -1,6 +1,6 @@
-# TELCOOPS01
+# TELCOOPS01 — Organize
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 3
 
 ---

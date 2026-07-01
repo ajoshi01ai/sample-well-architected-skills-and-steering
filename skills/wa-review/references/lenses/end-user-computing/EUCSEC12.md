@@ -1,6 +1,6 @@
-# EUCSEC12
+# EUCSEC12 — Infrastructure protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# ADVSEC04
+# ADVSEC04 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

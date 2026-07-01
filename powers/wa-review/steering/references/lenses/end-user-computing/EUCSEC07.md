@@ -1,6 +1,6 @@
-# EUCSEC07
+# EUCSEC07 — Detection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

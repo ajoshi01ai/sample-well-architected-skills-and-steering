@@ -1,6 +1,6 @@
-# ADVSUS04
+# ADVSUS04 — Software and architecture
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

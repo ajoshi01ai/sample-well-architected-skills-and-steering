@@ -1,6 +1,6 @@
-# LSCOST04
+# LSCOST04 — Optimize over time
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

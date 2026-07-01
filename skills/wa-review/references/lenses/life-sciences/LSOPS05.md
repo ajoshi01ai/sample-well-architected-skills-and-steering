@@ -1,6 +1,6 @@
-# LSOPS05
+# LSOPS05 — Prepare
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

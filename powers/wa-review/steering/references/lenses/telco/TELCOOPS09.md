@@ -1,6 +1,6 @@
-# TELCOOPS09
+# TELCOOPS09 — Performance baselining
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

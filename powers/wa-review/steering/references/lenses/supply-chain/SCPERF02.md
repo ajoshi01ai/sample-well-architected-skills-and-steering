@@ -1,6 +1,6 @@
-# SCPERF02
+# SCPERF02 — Compute selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

@@ -1,6 +1,6 @@
-# EUCPERF06
+# EUCPERF06 — Networking and content delivery
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

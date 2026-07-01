@@ -1,6 +1,6 @@
-# TELCOSEC04
+# TELCOSEC04 — Data Protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

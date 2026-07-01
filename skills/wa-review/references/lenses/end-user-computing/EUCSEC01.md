@@ -1,6 +1,6 @@
-# EUCSEC01
+# EUCSEC01 — Security foundations
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

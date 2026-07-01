@@ -1,6 +1,6 @@
-# TELCOOPS08
+# TELCOOPS08 — Failure testing
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

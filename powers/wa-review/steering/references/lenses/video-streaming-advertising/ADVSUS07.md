@@ -1,6 +1,6 @@
-# ADVSUS07
+# ADVSUS07 — Process and culture
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

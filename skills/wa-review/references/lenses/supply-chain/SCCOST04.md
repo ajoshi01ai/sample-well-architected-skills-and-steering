@@ -1,6 +1,6 @@
-# SCCOST04
+# SCCOST04 — Continuously monitor and optimize costs
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

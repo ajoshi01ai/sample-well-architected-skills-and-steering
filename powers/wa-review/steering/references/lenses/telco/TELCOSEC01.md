@@ -1,6 +1,6 @@
-# TELCOSEC01
+# TELCOSEC01 — Security foundations
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 2
 
 ---

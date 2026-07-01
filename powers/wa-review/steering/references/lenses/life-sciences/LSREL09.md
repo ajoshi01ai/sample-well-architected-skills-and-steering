@@ -1,6 +1,6 @@
-# LSREL09
+# LSREL09 — Change nanagement
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 6
 
 ---

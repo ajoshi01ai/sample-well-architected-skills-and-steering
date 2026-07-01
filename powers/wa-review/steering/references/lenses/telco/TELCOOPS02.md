@@ -1,6 +1,6 @@
-# TELCOOPS02
+# TELCOOPS02 — Multi-account strategy
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 3
 
 ---

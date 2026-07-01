@@ -1,6 +1,6 @@
-# TELCOOPS04
+# TELCOOPS04 — IP verification
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

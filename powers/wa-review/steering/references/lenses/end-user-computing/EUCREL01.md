@@ -1,6 +1,6 @@
-# EUCREL01
+# EUCREL01 — Foundations
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

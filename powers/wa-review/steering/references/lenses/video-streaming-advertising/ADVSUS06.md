@@ -1,6 +1,6 @@
-# ADVSUS06
+# ADVSUS06 — Hardware and services
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

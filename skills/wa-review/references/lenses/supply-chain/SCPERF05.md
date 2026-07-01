@@ -1,6 +1,6 @@
-# SCPERF05
+# SCPERF05 — Test and monitor performance
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

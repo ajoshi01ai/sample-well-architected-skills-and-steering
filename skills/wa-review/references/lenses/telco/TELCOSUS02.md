@@ -1,6 +1,6 @@
-# TELCOSUS02
+# TELCOSUS02 — Data processing and storage
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

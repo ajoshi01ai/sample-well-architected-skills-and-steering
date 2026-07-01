@@ -1,6 +1,6 @@
-# EUCCOST08
+# EUCCOST08 — Optimize over time
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

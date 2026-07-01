@@ -1,6 +1,6 @@
-# ADVCOST05
+# ADVCOST05 — Privacy-enhanced collaboration
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

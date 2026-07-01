@@ -1,6 +1,6 @@
-# LSOPS01
+# LSOPS01 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

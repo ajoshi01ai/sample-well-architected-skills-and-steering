@@ -1,6 +1,6 @@
-# ADVSUS01
+# ADVSUS01 — Region selection
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

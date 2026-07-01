@@ -1,6 +1,6 @@
-# TELCOCOST05
+# TELCOCOST05 — Interoperability
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# LSOPS02
+# LSOPS02 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 2
 
 ---

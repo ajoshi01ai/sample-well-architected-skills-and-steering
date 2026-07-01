@@ -1,6 +1,6 @@
-# TELCOSEC03
+# TELCOSEC03 — External interface security
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

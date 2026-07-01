@@ -1,6 +1,6 @@
-# LSSUS05
+# LSSUS05 — Sustainability in clinical trials
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# ADVREL01
+# ADVREL01 — Design for reliability
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 4
 
 ---

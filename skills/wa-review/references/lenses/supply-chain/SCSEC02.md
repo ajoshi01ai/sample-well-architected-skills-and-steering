@@ -1,6 +1,6 @@
-# SCSEC02
+# SCSEC02 — Security foundations
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 2
 
 ---

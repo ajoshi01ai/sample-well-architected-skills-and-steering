@@ -1,6 +1,6 @@
-# EUCREL04
+# EUCREL04 — Workload architecture
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

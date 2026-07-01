@@ -1,6 +1,6 @@
-# LSREL13
+# LSREL13 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

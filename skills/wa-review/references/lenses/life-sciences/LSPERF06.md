@@ -1,6 +1,6 @@
-# LSPERF06
+# LSPERF06 — Compute and hardware
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

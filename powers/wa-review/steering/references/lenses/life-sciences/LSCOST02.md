@@ -1,6 +1,6 @@
-# LSCOST02
+# LSCOST02 — Cost-effective resources
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# ADVCOST03
+# ADVCOST03 — Optimizing communication costs
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 3
 
 ---

@@ -1,6 +1,6 @@
-# ADVCOST02
+# ADVCOST02 — Cost-effective resources
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 4
 
 ---

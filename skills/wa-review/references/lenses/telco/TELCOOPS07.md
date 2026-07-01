@@ -1,6 +1,6 @@
-# TELCOOPS07
+# TELCOOPS07 — Geographical redundancy
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

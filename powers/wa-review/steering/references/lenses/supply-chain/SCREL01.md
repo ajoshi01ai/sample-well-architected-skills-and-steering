@@ -1,6 +1,6 @@
-# SCREL01
+# SCREL01 — Foundation
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

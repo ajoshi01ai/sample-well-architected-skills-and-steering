@@ -1,6 +1,6 @@
-# EUCSUS05
+# EUCSUS05 — Software and architecture
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# TELSEC03
+# TELSEC03 — External interface security
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 2
 
 ---

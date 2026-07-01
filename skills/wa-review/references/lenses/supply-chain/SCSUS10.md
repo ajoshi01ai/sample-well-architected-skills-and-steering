@@ -1,6 +1,6 @@
-# SCSUS10
+# SCSUS10 — Process and culture
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 1
 
 ---

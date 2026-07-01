@@ -1,6 +1,6 @@
-# LSOPS12
+# LSOPS12 — Operate
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

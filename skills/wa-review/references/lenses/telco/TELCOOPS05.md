@@ -1,6 +1,6 @@
-# TELCOOPS05
+# TELCOOPS05 — Operate
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 2
 
 ---

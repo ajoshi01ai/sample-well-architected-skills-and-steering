@@ -1,6 +1,6 @@
-# LSREL12
+# LSREL12 — Failure management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 4
 
 ---

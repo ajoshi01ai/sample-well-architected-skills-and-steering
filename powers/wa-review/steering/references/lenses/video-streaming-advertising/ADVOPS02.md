@@ -1,6 +1,6 @@
-# ADVOPS02
+# ADVOPS02 — Prepare
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 4
 
 ---

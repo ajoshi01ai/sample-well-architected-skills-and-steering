@@ -1,6 +1,6 @@
-# TELCOSEC02
+# TELCOSEC02 — Infrastructure protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 3
 
 ---

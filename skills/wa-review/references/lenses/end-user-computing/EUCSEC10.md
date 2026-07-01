@@ -1,6 +1,6 @@
-# EUCSEC10
+# EUCSEC10 — Infrastructure protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 2
 
 ---

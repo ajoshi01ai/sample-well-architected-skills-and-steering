@@ -1,6 +1,6 @@
-# SCOPS12
+# SCOPS12 — Evolve
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# ADVSEC07
+# ADVSEC07 — User privacy
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

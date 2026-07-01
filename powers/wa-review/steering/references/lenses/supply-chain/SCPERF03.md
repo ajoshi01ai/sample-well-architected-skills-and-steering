@@ -1,6 +1,6 @@
-# SCPERF03
+# SCPERF03 — Database and storage selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

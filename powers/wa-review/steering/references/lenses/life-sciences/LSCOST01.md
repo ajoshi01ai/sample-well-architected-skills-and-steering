@@ -1,6 +1,6 @@
-# LSCOST01
+# LSCOST01 — Practice Cloud Financial Management
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 3
 
 ---

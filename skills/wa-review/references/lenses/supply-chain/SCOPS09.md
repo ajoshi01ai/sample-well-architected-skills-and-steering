@@ -1,6 +1,6 @@
-# SCOPS09
+# SCOPS09 — Organization
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

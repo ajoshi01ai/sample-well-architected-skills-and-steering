@@ -1,6 +1,6 @@
-# SCSEC09
+# SCSEC09 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

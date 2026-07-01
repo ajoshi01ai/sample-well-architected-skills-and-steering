@@ -1,6 +1,6 @@
-# TELCOPERF01
+# TELCOPERF01 — Architecture selection
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 3
 
 ---

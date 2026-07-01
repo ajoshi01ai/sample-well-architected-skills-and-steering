@@ -1,6 +1,6 @@
-# SCCOST02
+# SCCOST02 — Optimize data management and processing
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 3
 
 ---

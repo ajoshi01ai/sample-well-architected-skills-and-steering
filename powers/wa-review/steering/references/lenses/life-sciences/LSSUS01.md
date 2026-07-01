@@ -1,6 +1,6 @@
-# LSSUS01
+# LSSUS01 — Research computing optimization
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

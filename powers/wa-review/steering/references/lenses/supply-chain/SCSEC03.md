@@ -1,6 +1,6 @@
-# SCSEC03
+# SCSEC03 — Identity and access management
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

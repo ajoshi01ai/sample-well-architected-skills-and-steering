@@ -1,6 +1,6 @@
-# EUCOPS08
+# EUCOPS08 — Prepare
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

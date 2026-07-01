@@ -1,6 +1,6 @@
-# EUCSEC15
+# EUCSEC15 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

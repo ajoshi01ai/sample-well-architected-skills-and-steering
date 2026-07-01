@@ -1,6 +1,6 @@
-# SCSEC08
+# SCSEC08 — Data protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

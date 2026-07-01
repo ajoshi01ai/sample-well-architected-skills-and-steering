@@ -1,6 +1,6 @@
-# ADVSEC06
+# ADVSEC06 — Regulatory adherence
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

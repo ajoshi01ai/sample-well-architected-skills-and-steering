@@ -1,6 +1,6 @@
-# TELCOREL03
+# TELCOREL03 — Change management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 2
 
 ---

@@ -1,6 +1,6 @@
-# SCSEC11
+# SCSEC11 — Incident response
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

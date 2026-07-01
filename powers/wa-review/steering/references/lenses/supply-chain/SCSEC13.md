@@ -1,6 +1,6 @@
-# SCSEC13
+# SCSEC13 — Application security
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

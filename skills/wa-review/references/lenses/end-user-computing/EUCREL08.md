@@ -1,6 +1,6 @@
-# EUCREL08
+# EUCREL08 — Change management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 1
 
 ---

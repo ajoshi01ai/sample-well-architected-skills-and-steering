@@ -1,6 +1,6 @@
-# EUCOPS10
+# EUCOPS10 — Prepare
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

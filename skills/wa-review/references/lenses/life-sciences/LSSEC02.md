@@ -1,6 +1,6 @@
-# LSSEC02
+# LSSEC02 — Data privacy
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---

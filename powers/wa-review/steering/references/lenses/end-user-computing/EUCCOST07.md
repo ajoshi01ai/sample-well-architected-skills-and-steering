@@ -1,6 +1,6 @@
-# EUCCOST07
+# EUCCOST07 — Manage demand and supply resources
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

@@ -1,6 +1,6 @@
-# SCOPS10
+# SCOPS10 — Operate
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

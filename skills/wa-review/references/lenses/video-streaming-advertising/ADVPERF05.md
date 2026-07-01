@@ -1,6 +1,6 @@
-# ADVPERF05
+# ADVPERF05 — Networking and content delivery
 
-**Pillar**: Unknown  
+**Pillar**: Performance Efficiency  
 **Best Practices**: 4
 
 ---

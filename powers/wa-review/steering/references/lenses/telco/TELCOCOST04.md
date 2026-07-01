@@ -1,6 +1,6 @@
-# TELCOCOST04
+# TELCOCOST04 — Data storage
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 2
 
 ---

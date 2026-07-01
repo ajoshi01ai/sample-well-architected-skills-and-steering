@@ -1,6 +1,6 @@
-# TELCOCOST03
+# TELCOCOST03 — Data transfer
 
-**Pillar**: Unknown  
+**Pillar**: Cost Optimization  
 **Best Practices**: 1
 
 ---

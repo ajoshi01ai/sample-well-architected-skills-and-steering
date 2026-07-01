@@ -1,6 +1,6 @@
-# EUCOPS14
+# EUCOPS14 — Operate
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

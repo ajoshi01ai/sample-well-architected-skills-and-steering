@@ -1,6 +1,6 @@
-# TELCOOPS06
+# TELCOOPS06 — Resource availability
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

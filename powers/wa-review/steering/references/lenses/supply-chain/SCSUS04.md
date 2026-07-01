@@ -1,6 +1,6 @@
-# SCSUS04
+# SCSUS04 — Software and architecture
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

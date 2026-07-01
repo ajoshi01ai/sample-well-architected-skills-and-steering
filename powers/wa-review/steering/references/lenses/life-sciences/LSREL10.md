@@ -1,6 +1,6 @@
-# LSREL10
+# LSREL10 — Change nanagement
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 3
 
 ---

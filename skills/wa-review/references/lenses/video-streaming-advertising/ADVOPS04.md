@@ -1,6 +1,6 @@
-# ADVOPS04
+# ADVOPS04 — Manage operational processes
 
-**Pillar**: Unknown  
+**Pillar**: Operational Excellence  
 **Best Practices**: 1
 
 ---

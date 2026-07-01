@@ -1,6 +1,6 @@
-# EUCSUS08
+# EUCSUS08 — Hardware and services
 
-**Pillar**: Unknown  
+**Pillar**: Sustainability  
 **Best Practices**: 2
 
 ---

@@ -1,6 +1,6 @@
-# ADVREL04
+# ADVREL04 — Change management
 
-**Pillar**: Unknown  
+**Pillar**: Reliability  
 **Best Practices**: 2
 
 ---

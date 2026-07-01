@@ -1,6 +1,6 @@
-# SCSEC06
+# SCSEC06 — Infrastructure protection
 
-**Pillar**: Unknown  
+**Pillar**: Security  
 **Best Practices**: 1
 
 ---
