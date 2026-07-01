@@ -787,7 +787,6 @@ Compare how different foundation models perform on Well-Architected review tasks
 | nova-pro | 549 | 1,316 | 9.1 | 145 | $0.0046 | 3.6/5 |
 | llama4-maverick-17b-instruct | 503 | 985 | 5.4 | 182 | $0.0005 | 3.5/5 |
 | llama3-3-70b-instruct | 505 | 1,133 | 9.9 | 114 | $0.0012 | 3.3/5 |
-| nova-lite | 549 | 1,739 | 9.2 | 189 | $0.0004 | 2.3/5 |
 
 <details><summary>Benchmark details</summary>
 
